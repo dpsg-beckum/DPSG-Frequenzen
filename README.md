@@ -1,5 +1,5 @@
 # DPSG-Frequenzen
-Eine Liste der Standard Funk Frequenzen zur Komunikation mit programmierbaren Funkgeräten für Lager und Aktionen. Erstellt von der DPSG-Beckum.
+Eine Liste der Standard Funk Frequenzen zur Kommunikation mit programmierbaren Funkgeräten für Lager und Aktionen. Erstellt von der DPSG-Beckum.
 
 ## PMR
 
